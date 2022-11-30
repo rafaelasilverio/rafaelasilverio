@@ -14,7 +14,7 @@
 
 🧠 Estou estudando Angular no momento
 
-👩‍💻 Também já explorei C, PHP, Python, SQL e React
+👩‍💻 Também já explorei C++, PHP, Python, SQL e React
 
 😄 Amo séries de comédia e livros 
 
