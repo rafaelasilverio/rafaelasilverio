@@ -12,7 +12,7 @@
 
 🎯 Meu foco é em Front-End
 
-🧠 Estou estudando Angular no momento
+🧠 Estou estudando TypeScript e Angular no momento
 
 👩‍💻 Também já explorei C++, PHP, Python, SQL e React
 
