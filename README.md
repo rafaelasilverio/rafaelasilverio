@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mim
 
-🤿 Trabalho atualmente como Scuba na Alura!
+🤿 Trabalho atualmente como Scuba da Escola Front-End da Alura!
 
 📚 Sou Técnica em Desenvolvimento de Sistemas pela Etec
 
@@ -14,7 +14,7 @@
 
 🧠 Estou estudando TypeScript e Angular no momento
 
-👩‍💻 Também já explorei C++, PHP, Python, SQL e React
+👩‍💻 Também já explorei C++, PHP, Python, SQL, HTML, CSS, JS e React
 
 😄 Amo séries de comédia e livros 
 
