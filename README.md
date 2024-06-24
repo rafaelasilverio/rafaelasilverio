@@ -4,8 +4,6 @@
 
 ## 🚀 Sobre mim
 
-🤿 Trabalho atualmente como Scuba da Escola Front-End da Alura!
-
 📚 Sou Técnica em Desenvolvimento de Sistemas pela Etec
 
 🎓 Estou cursando Bacharelado em Sistemas de Informação
@@ -17,7 +15,6 @@
 👩‍💻 Também já explorei C++, PHP, Python, SQL, HTML, CSS, JS e React
 
 😄 Amo séries de comédia e livros 
-
 
 
 
