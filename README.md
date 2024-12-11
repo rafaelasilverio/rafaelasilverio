@@ -10,9 +10,9 @@
 
 🎯 Meu foco é em Front-End
 
-🧠 Estou estudando TypeScript e Angular no momento
+🧠 Estou estudando React e TypeScript no momento
 
-👩‍💻 Também já explorei C++, PHP, Python, SQL, HTML, CSS, JS e React
+👩‍💻 Também já explorei C++, PHP, Python, SQL, HTML, CSS, JS e Angular
 
 😄 Amo séries de comédia e livros 
 
